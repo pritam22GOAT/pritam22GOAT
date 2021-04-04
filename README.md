@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritam22GOAT
+- 👋 Hi, I’m @pritam22GOAT | Pritam Singh
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning django & web development
 - 💞️ I’m looking to collaborate on ...
